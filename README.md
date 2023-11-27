@@ -21,3 +21,4 @@
    ```shell
    pip install -r requirements.txt
    ```
+4. Измените файл <*template.env*> на <*.env*> и подставьте значение ключей.
